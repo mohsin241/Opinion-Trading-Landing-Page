@@ -1,6 +1,6 @@
 # Opinion-Trading-Landing-Page
 
-Prerequisites
+Prerequisites 
 
 Node.js (v14 or later): Install Node.js.
 
