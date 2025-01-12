@@ -9,7 +9,7 @@ Environment Variables: Create .env files for both backend and frontend.
 git clone <repository-url>
 cd <repository-folder>
 
-----------------Backend Setup------------------
+----------------Backend Setup-------------------
 
 ##Navigate to Backend Folder
 cd server
