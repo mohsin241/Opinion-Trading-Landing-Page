@@ -14,7 +14,7 @@ Environment Variables: Create .env files for both backend and frontend.
 
 git clone https://github.com/mohsin241/Opinion-Trading-Landing-Page.git
 
-cd <repository-folder>
+cd landing page
 
 
 
