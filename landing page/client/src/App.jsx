@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import ConnectButton from './components/ConnectButton';
 import Mobilegamingillustration from './assets/image.svg';
-import './App.css'; // Import your styles
+import './App.css';
 import { useAppKitAccount } from '@reown/appkit/react';
 import axios from 'axios';
 
